@@ -16,3 +16,6 @@ Playing around with math, recursive functions, and a python graphics library. Do
 5. Exponents
 6. Combination (i.e. "10 choose 2" evaluates to 45)
 7. Base Conversion
+
+#### Here's what the GUI will look like for a conversion of 100 to base 2
+<img src="example.png" width = 200 height = 320></img>
